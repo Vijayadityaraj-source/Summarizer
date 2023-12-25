@@ -1,10 +1,6 @@
 # Summarizer
 React-flask webapp which uses huggingface🤗 summarizer model in the Backend.
 
-## Demo
-
-https://github.com/Vijayadityaraj-source/Summarizer/assets/103420230/4e94518a-bc5e-4ed4-81d4-c0eb427f4d30
-
 ## How to run:
 
 ### BackEnd
